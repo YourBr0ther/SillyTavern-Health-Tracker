@@ -1,0 +1,9 @@
+{
+    "name": "Health Tracker",
+    "version": "1.0.0",
+    "description": "A simple health tracking system for roleplay",
+    "author": "Your Name",
+    "entry": "index.js",
+    "requires": ["api"],
+    "help": "Use /health to check current health, /heal [amount] to heal, /damage [amount] to take damage"
+} 
