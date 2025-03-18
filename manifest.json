@@ -1,9 +1,11 @@
 {
-    "name": "Health Tracker",
-    "version": "1.0.0",
-    "description": "A simple health tracking system for roleplay",
+    "display_name": "Health Tracker",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
     "author": "YourBr0ther",
-    "entry": "index.js",
-    "type": "chat",
-    "help": "Use /health to check current health, /heal [amount] to heal, /damage [amount] to take damage"
+    "version": "1.0.0",
+    "homePage": "https://github.com/YourBr0ther/SillyTavern-Health-Tracker",
+    "auto_update": true
 } 
