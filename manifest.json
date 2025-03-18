@@ -4,6 +4,6 @@
     "description": "A simple health tracking system for roleplay",
     "author": "YourBr0ther",
     "entry": "index.js",
-    "requires": ["api"],
+    "type": "chat",
     "help": "Use /health to check current health, /heal [amount] to heal, /damage [amount] to take damage"
 } 
